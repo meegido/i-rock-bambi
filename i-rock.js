@@ -7,7 +7,7 @@
    		var userName = prompt("What's your name?");
 
    		var bambiHidden = document.getElementById("bambi-hidden");
-   		bambiHidden.style.display="inline";
+   		bambiHidden.style.display="inline-block";
    		this.style.display="none";
 
    		var newElement = document.createElement("p");
@@ -23,7 +23,7 @@
    		var noText = document.getElementById("setinstruction");
    		var noInstruction = document.getElementById("instruction");
    		var noAll = noText.removeChild(instruction);
-   		
+
 		});
    	});
 
