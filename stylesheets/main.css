@@ -1,6 +1,5 @@
 body {
 	background: #FFF;
-	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	padding: 0;
 	margin: 0;
@@ -40,14 +39,19 @@ img {
 }
 
 .text {
-	font-size: 24px;
+	font-size: 42px;
+	color: #f1c40f;
 	margin-top: 40px;
 	text-align: center;
+	font-family: 'Rum Raisin', sans-serif;
 }
 
 .nuevo-texto {
-	font-size: 30px;
+	font-size: 38px;
+	color: #c0392b;
+	font-family: 'Wendy One', sans-serif;
 	float:right;
-	margin-right: 336px;
-  	margin-top: 130px;
+	margin-right: 190px;
+  	margin-top: 170px;
+  	
 }
